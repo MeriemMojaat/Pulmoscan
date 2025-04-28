@@ -73,6 +73,7 @@ PulmoScan proposes a hybrid AI approach that improves early lung cancer detectio
 👥 Team
 [Data Wizards]
 Composed of :
+
 [Amorri Nour]
 [Charrada Yosr]
 [Etteib Tessnim]
