@@ -70,13 +70,12 @@ YOLOv8 excelled in real-time nodule detection.
 📚 Scientific Contribution
 PulmoScan proposes a hybrid AI approach that improves early lung cancer detection by combining fast, precise object detection models with efficient, accurate classifiers. It addresses challenges like large dataset size, imaging noise, and resource constraints, offering a scalable and deployable solution for healthcare systems.
 
-👥 Team
-[Data Wizards]
+👥 Team : Data Wizards
 Composed of :
 
-[Amorri Nour]
-[Charrada Yosr]
-[Etteib Tessnim]
-[Mojaat Meriem]
-[Sliti Maram]
+Amorri Nour
+Charrada Yosr
+Etteib Tessnim
+Mojaat Meriem
+Sliti Maram
 
