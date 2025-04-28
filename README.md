@@ -74,8 +74,12 @@ PulmoScan proposes a hybrid AI approach that improves early lung cancer detectio
 Composed of :
 
 Amorri Nour
+
 Charrada Yosr
+
 Etteib Tessnim
+
 Mojaat Meriem
+
 Sliti Maram
 
