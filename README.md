@@ -72,11 +72,10 @@ PulmoScan proposes a hybrid AI approach that improves early lung cancer detectio
 
 👥 Team
 [Data Wizards]
+Composed of :
+[Amorri Nour]
+[Charrada Yosr]
+[Etteib Tessnim]
+[Mojaat Meriem]
+[Sliti Maram]
 
-
-[Your Name 3]
-
-[Your Name 4]
-
-📜 License
-This project is licensed under the MIT License — see the LICENSE file for details.
